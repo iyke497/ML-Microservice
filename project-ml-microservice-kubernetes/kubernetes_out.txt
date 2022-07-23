@@ -1,0 +1,5 @@
+Error from server (AlreadyExists): pods "ml-app" already exists
+NAME     READY   STATUS    RESTARTS   AGE
+ml-app   1/1     Running   0          4m1s
+Forwarding from 0.0.0.0:8000 -> 80
+Handling connection for 8000
